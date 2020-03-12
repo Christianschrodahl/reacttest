@@ -1,0 +1,47 @@
+.topSlider {
+    width: 100%;
+    height: auto;
+}
+
+.LoginModule {
+    margin: 10px;
+    padding: 10px;
+    width: 250px;
+}
+.Cards{
+    text-align: center;
+}
+.card-deck{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.cardImg{
+    margin: auto;
+    width: 120px;
+    height: auto;
+}
+.bodyContainer {
+    width: 900px;
+    margin: 15px auto;
+    
+}
+.JumboT{
+    margin: auto;
+    width: fit-content;
+}
+.jumbotron{
+    margin-bottom: 0;
+}
+.footer {
+    position: static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #212529;
+    color: white;
+    text-align: center;
+}
+.footer .container{
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
